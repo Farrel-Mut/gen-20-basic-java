@@ -1,4 +1,4 @@
-public class Main{ //nama class dihubungkan sama dengan nama file yang digunakan
+public class HelloWorld { //nama class dihubungkan sama dengan nama file yang digunakan
     public static void main(String[] args){
         System.out.print("Hello World!"); //"print" code ini digunakan untuk memunculkan text yang kita iniginkan
         System.out.println("");
